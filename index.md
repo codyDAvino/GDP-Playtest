@@ -3,7 +3,10 @@
 
 Add a link to your game in the appropriate section below. After you add your link commit the change and push to GitHub. Then make a pull request so that your game becomes part of the master list.
 
-## Original Games
+<details>
+ <summary>
+## 2017-2018 Games
+ </summary>
 
   * [Bup Blaster: Riley Bennett](https://RileyBennett.github.io/BupBlaster/index.html) --- Bup Blaster is a game in which the player must survive as long as possible by flying around in a spaceship and shooting the angry bups chasing after them.
 
@@ -111,4 +114,6 @@ Add a link to your game in the appropriate section below. After you add your lin
   * [Rougelike: Justin Sewell](https://Starfighter36.github.io/WebGL/index.html) --- Built a second area for the game with enemies and items with a maze.
   
   * [Rougelike: Michael Clauss](https://pclaussmichael.github.io/Games/) --- I made the controls Arrow keys, plan to add more interactions.
+  
+</details>
    
