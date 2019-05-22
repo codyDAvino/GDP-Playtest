@@ -5,7 +5,7 @@ Add a link to your game in the appropriate section below. After you add your lin
 
 <details>
  <summary>
-## 2017-2018 Games
+  <h3>2017-2018 Games</h3>
  </summary>
 
   * [Bup Blaster: Riley Bennett](https://RileyBennett.github.io/BupBlaster/index.html) --- Bup Blaster is a game in which the player must survive as long as possible by flying around in a spaceship and shooting the angry bups chasing after them.
