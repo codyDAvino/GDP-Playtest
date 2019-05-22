@@ -5,6 +5,13 @@ Add a link to your game in the appropriate section below. After you add your lin
 
 <details>
  <summary>
+  <strong>2018-2019 Games</strong>
+ </summary>
+
+</details>
+
+<details>
+ <summary>
   <strong>2017-2018 Games</strong>
  </summary>
 
