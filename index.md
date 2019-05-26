@@ -8,7 +8,8 @@ Add a link to your game in the appropriate section below. After you add your lin
   <strong>2018-2019 Games</strong>
  </summary>
  
-* Example
+* Example 1
+* Example 2
 
 </details>
 
