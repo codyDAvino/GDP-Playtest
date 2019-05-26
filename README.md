@@ -8,7 +8,7 @@ After you have built your game, and publish it by adding a link to the playtest 
 To do this:
 
 1. **Fork this repository** on that you can edit it and add your game.
-1. **Click on the index.md file** and play around a bit to see how it works.
+1. **Click on the index.md file** and explore a bit to see how it works.
 1. Then **click on the edit pencil** so you can look at the structure of the file. You will see that each of the sections looks something like this:
 
 ``` html
