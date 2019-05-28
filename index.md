@@ -22,7 +22,7 @@
  
   <details>
    <summary><strong>
-    <a href="douglasurner.github.io/GDP-Playtest/Games/2018-2019/example-dlu">Example - by: Doug U.</a>
+    <a href="https://douglasurner.github.io/GDP-Playtest/Games/2018-2019/example-dlu">Example - by: Doug U.</a>
    </strong></summary>
    A remake of the classic Pong, with scoring and a UI.
  
