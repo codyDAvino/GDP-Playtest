@@ -7,8 +7,9 @@ After you have built your game, publish it by adding your game in the ```Games``
 
 To do this:
 
-1. **Fork this repository** on that you can edit it and add your game.
-1. **Click on the index.md file** and explore a bit to see how it works.
+1. **Fork this repository** so that you have a copy to work with.
+1. **Clone your fork to your computer** so that you can add your game.
+1. But first, **click on the index.md file** and explore a bit to see how it works.
 1. Then **click on the edit pencil** so you can see the HTML and Markdown coding of the file. You will see that each game is wrapped in a set of HTML ```<details>...</details>``` tags that look something like this:
 
 ``` html
