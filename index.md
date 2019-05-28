@@ -8,7 +8,7 @@
  
  <details>
    <summary><strong>
-    
+     [Game Name Goes Here](Games/2018-2019/game-name)
    </strong></summary>
    
  </details>
