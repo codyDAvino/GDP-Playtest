@@ -3,7 +3,7 @@
 
 # SKHS Game Design & Programming Playtests
 
-After you have built your game, and publish it by adding a link to the playtest page, ```index.md``` in this repository.
+After you have built your game, publish it by adding your game in the ```Games``` folder and creating a link to your game on the playtest page, ```index.md``` in this repository.
 
 To do this:
 
