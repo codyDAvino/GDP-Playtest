@@ -18,6 +18,19 @@
    
    Source: [Repository Name](repository-url)
  </details>
+ 
+  <details>
+   <summary><strong>
+    <a href="Games/2018-2019/example-dlu">Example - by: Doug U.</a>
+   </strong></summary>
+   A remake of the classic Pong, with scoring and a UI.
+ 
+   Playtest Feedback Requests:
+   * Question 1.
+   * Question 2.
+   
+   Source: [GDP2](https://github.com/DouglasUrner/GDP2) - the game itself is burried deep in the repository, you can go directly to it by following [this link](https://github.com/DouglasUrner/GDP2/tree/master/units/1/assignments/U1.1-pong-in-unity/b-build/level-3/Quarles-Pong-2).
+ </details>
 
 </details>
 
