@@ -10,6 +10,7 @@
    <summary><strong>
     <a href="Games/2018-2019/game-name">Game Name - by: First L.</a>
    </strong></summary>
+ 
    A short description of your game goes here.
  
    Playtest Feedback Requests:
