@@ -8,7 +8,7 @@
  
  <details>
    <summary><strong>
-     [Game Name Goes Here](Games/2018-2019/game-name)
+    <a href="Games/2018-2019/game-name">Game Name</a>
    </strong></summary>
    
  </details>
