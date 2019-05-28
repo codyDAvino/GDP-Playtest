@@ -24,6 +24,7 @@
    <summary><strong>
     <a href="https://douglasurner.github.io/GDP-Playtest/Games/2018-2019/example-dlu">Example - by: Doug U.</a>
    </strong></summary>
+ 
    A remake of the classic Pong based on the [tutorial by Vincent Quarles](https://www.sitepoint.com/building-a-pong-clone-in-unity-ui-and-gameplay/), with an AI opponent and a simple UI.
  
    Playtest Feedback Requests:
