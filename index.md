@@ -17,14 +17,14 @@
    * Question 1.
    * Question 2.
    
-   Source: [Repository Name](repository-url)
+   Source repository: [Repository Name](repository-url)
  </details>
  
   <details>
    <summary><strong>
     <a href="https://douglasurner.github.io/GDP-Playtest/Games/2018-2019/example-dlu">Example - by: Doug U.</a>
    </strong></summary>
-   A remake of the classic Pong, with scoring and a UI.
+   A remake of the classic Pong based on the [tutorial by Vincent Quarles](https://www.sitepoint.com/building-a-pong-clone-in-unity-ui-and-gameplay/), with an AI opponent and a simple UI.
  
    Playtest Feedback Requests:
    * Is the paddle movement "playable?" - If not, how should it be changed?
@@ -34,7 +34,7 @@
    * Should a keypress be required to serve?
    * Should the same key be used for both pause and serve?
    
-   Source: [GDP2](https://github.com/DouglasUrner/GDP2) - the game itself is burried deep in the repository, you can go directly to it by following [this link](https://github.com/DouglasUrner/GDP2/tree/master/units/1/assignments/U1.1-pong-in-unity/b-build/level-3/Quarles-Pong-2).
+   Source repository: [GDP2](https://github.com/DouglasUrner/GDP2) - the game itself is burried deep in the repository, you can go directly to it by following [this link](https://github.com/DouglasUrner/GDP2/tree/master/units/1/assignments/U1.1-pong-in-unity/b-build/level-3/Quarles-Pong-2).
  </details>
 
 </details>
