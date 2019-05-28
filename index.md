@@ -27,8 +27,12 @@
    A remake of the classic Pong, with scoring and a UI.
  
    Playtest Feedback Requests:
-   * Question 1.
-   * Question 2.
+   * Is the paddle movement "playable?" - If not, how should it be changed?
+   * Is the AI challenging enough to play against?
+   * Would it be better to have play continue when the ball hits the back wall or should it restart from the center after each point?
+   * Should the initial direction after a point be predictable (e.g., the winner or loser of the point "serves")?
+   * Should a keypress be required to serve?
+   * Should the same key be used for both pause and serve?
    
    Source: [GDP2](https://github.com/DouglasUrner/GDP2) - the game itself is burried deep in the repository, you can go directly to it by following [this link](https://github.com/DouglasUrner/GDP2/tree/master/units/1/assignments/U1.1-pong-in-unity/b-build/level-3/Quarles-Pong-2).
  </details>
