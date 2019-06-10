@@ -5,7 +5,22 @@
  <summary>
   <strong>2018-2019 Games</strong>
  </summary>
+  <details>
+   <summary><strong>
+    <a href="Games/2018-2019/Chief-Mischief">Chief Mischief - by: Lorenzo-St</a>
+   </strong></summary>
  
+   Mom and Dad are out for a night on the town, Grandma and Gramps are here to watch you, but you have other plans. As a mischievious child, your goal is to cause as much damage to your house as possible.
+ 
+   Playtest Feedback Requests:
+   * do my AIs work
+   * Are my controls sound
+   * How are my Menues, are there any that don't work
+   * Does the high score work
+   * how are my colliders
+   
+   Source repository: [Comp-Game](https://github.com/Lorenzo-St/Comp-Game)
+ </details>
  <details>
    <summary><strong>
     <a href="Games/2018-2019/game-name">Game Name - by: First L.</a>
